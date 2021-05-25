@@ -1,0 +1,13 @@
+D:\pessoal\C#\csharp-examples-master\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+D:\pessoal\C#\csharp-examples-master\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+D:\pessoal\C#\csharp-examples-master\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+D:\pessoal\C#\csharp-examples-master\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+D:\pessoal\C#\csharp-examples-master\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+D:\pessoal\C#\csharp-examples-master\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+D:\pessoal\C#\csharp-examples-master\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+D:\pessoal\C#\csharp-examples-master\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+D:\pessoal\C#\csharp-examples-master\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+D:\pessoal\C#\csharp-examples-master\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+D:\pessoal\C#\csharp-examples-master\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+D:\pessoal\C#\csharp-examples-master\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+D:\pessoal\C#\csharp-examples-master\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache

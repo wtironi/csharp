@@ -1,0 +1,16 @@
+D:\pessoal\C#\csharp-examples-master\Teste\revisao\bin\Debug\net5.0\revisao.exe
+D:\pessoal\C#\csharp-examples-master\Teste\revisao\bin\Debug\net5.0\revisao.deps.json
+D:\pessoal\C#\csharp-examples-master\Teste\revisao\bin\Debug\net5.0\revisao.runtimeconfig.json
+D:\pessoal\C#\csharp-examples-master\Teste\revisao\bin\Debug\net5.0\revisao.runtimeconfig.dev.json
+D:\pessoal\C#\csharp-examples-master\Teste\revisao\bin\Debug\net5.0\revisao.dll
+D:\pessoal\C#\csharp-examples-master\Teste\revisao\bin\Debug\net5.0\ref\revisao.dll
+D:\pessoal\C#\csharp-examples-master\Teste\revisao\bin\Debug\net5.0\revisao.pdb
+D:\pessoal\C#\csharp-examples-master\Teste\revisao\obj\Debug\net5.0\revisao.csprojAssemblyReference.cache
+D:\pessoal\C#\csharp-examples-master\Teste\revisao\obj\Debug\net5.0\revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\pessoal\C#\csharp-examples-master\Teste\revisao\obj\Debug\net5.0\revisao.AssemblyInfoInputs.cache
+D:\pessoal\C#\csharp-examples-master\Teste\revisao\obj\Debug\net5.0\revisao.AssemblyInfo.cs
+D:\pessoal\C#\csharp-examples-master\Teste\revisao\obj\Debug\net5.0\revisao.csproj.CoreCompileInputs.cache
+D:\pessoal\C#\csharp-examples-master\Teste\revisao\obj\Debug\net5.0\revisao.dll
+D:\pessoal\C#\csharp-examples-master\Teste\revisao\obj\Debug\net5.0\ref\revisao.dll
+D:\pessoal\C#\csharp-examples-master\Teste\revisao\obj\Debug\net5.0\revisao.pdb
+D:\pessoal\C#\csharp-examples-master\Teste\revisao\obj\Debug\net5.0\revisao.genruntimeconfig.cache

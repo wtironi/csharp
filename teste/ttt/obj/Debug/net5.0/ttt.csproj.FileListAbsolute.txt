@@ -1,0 +1,16 @@
+D:\pessoal\c#\teste\ttt\bin\Debug\net5.0\ttt.exe
+D:\pessoal\c#\teste\ttt\bin\Debug\net5.0\ttt.deps.json
+D:\pessoal\c#\teste\ttt\bin\Debug\net5.0\ttt.runtimeconfig.json
+D:\pessoal\c#\teste\ttt\bin\Debug\net5.0\ttt.runtimeconfig.dev.json
+D:\pessoal\c#\teste\ttt\bin\Debug\net5.0\ttt.dll
+D:\pessoal\c#\teste\ttt\bin\Debug\net5.0\ref\ttt.dll
+D:\pessoal\c#\teste\ttt\bin\Debug\net5.0\ttt.pdb
+D:\pessoal\c#\teste\ttt\obj\Debug\net5.0\ttt.csprojAssemblyReference.cache
+D:\pessoal\c#\teste\ttt\obj\Debug\net5.0\ttt.GeneratedMSBuildEditorConfig.editorconfig
+D:\pessoal\c#\teste\ttt\obj\Debug\net5.0\ttt.AssemblyInfoInputs.cache
+D:\pessoal\c#\teste\ttt\obj\Debug\net5.0\ttt.AssemblyInfo.cs
+D:\pessoal\c#\teste\ttt\obj\Debug\net5.0\ttt.csproj.CoreCompileInputs.cache
+D:\pessoal\c#\teste\ttt\obj\Debug\net5.0\ttt.dll
+D:\pessoal\c#\teste\ttt\obj\Debug\net5.0\ref\ttt.dll
+D:\pessoal\c#\teste\ttt\obj\Debug\net5.0\ttt.pdb
+D:\pessoal\c#\teste\ttt\obj\Debug\net5.0\ttt.genruntimeconfig.cache

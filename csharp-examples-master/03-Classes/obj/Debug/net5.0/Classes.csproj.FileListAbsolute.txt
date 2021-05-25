@@ -1,0 +1,16 @@
+D:\pessoal\C#\csharp-examples-master\03-Classes\bin\Debug\net5.0\Classes.exe
+D:\pessoal\C#\csharp-examples-master\03-Classes\bin\Debug\net5.0\Classes.deps.json
+D:\pessoal\C#\csharp-examples-master\03-Classes\bin\Debug\net5.0\Classes.runtimeconfig.json
+D:\pessoal\C#\csharp-examples-master\03-Classes\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+D:\pessoal\C#\csharp-examples-master\03-Classes\bin\Debug\net5.0\Classes.dll
+D:\pessoal\C#\csharp-examples-master\03-Classes\bin\Debug\net5.0\ref\Classes.dll
+D:\pessoal\C#\csharp-examples-master\03-Classes\bin\Debug\net5.0\Classes.pdb
+D:\pessoal\C#\csharp-examples-master\03-Classes\obj\Debug\net5.0\Classes.csprojAssemblyReference.cache
+D:\pessoal\C#\csharp-examples-master\03-Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\pessoal\C#\csharp-examples-master\03-Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+D:\pessoal\C#\csharp-examples-master\03-Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+D:\pessoal\C#\csharp-examples-master\03-Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+D:\pessoal\C#\csharp-examples-master\03-Classes\obj\Debug\net5.0\Classes.dll
+D:\pessoal\C#\csharp-examples-master\03-Classes\obj\Debug\net5.0\ref\Classes.dll
+D:\pessoal\C#\csharp-examples-master\03-Classes\obj\Debug\net5.0\Classes.pdb
+D:\pessoal\C#\csharp-examples-master\03-Classes\obj\Debug\net5.0\Classes.genruntimeconfig.cache

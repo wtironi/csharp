@@ -1,0 +1,16 @@
+D:\pessoal\C#\Dio.Bank\bin\Debug\net5.0\Dio.Bank.exe
+D:\pessoal\C#\Dio.Bank\bin\Debug\net5.0\Dio.Bank.deps.json
+D:\pessoal\C#\Dio.Bank\bin\Debug\net5.0\Dio.Bank.runtimeconfig.json
+D:\pessoal\C#\Dio.Bank\bin\Debug\net5.0\Dio.Bank.runtimeconfig.dev.json
+D:\pessoal\C#\Dio.Bank\bin\Debug\net5.0\Dio.Bank.dll
+D:\pessoal\C#\Dio.Bank\bin\Debug\net5.0\ref\Dio.Bank.dll
+D:\pessoal\C#\Dio.Bank\bin\Debug\net5.0\Dio.Bank.pdb
+D:\pessoal\C#\Dio.Bank\obj\Debug\net5.0\Dio.Bank.csprojAssemblyReference.cache
+D:\pessoal\C#\Dio.Bank\obj\Debug\net5.0\Dio.Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\pessoal\C#\Dio.Bank\obj\Debug\net5.0\Dio.Bank.AssemblyInfoInputs.cache
+D:\pessoal\C#\Dio.Bank\obj\Debug\net5.0\Dio.Bank.AssemblyInfo.cs
+D:\pessoal\C#\Dio.Bank\obj\Debug\net5.0\Dio.Bank.csproj.CoreCompileInputs.cache
+D:\pessoal\C#\Dio.Bank\obj\Debug\net5.0\Dio.Bank.dll
+D:\pessoal\C#\Dio.Bank\obj\Debug\net5.0\ref\Dio.Bank.dll
+D:\pessoal\C#\Dio.Bank\obj\Debug\net5.0\Dio.Bank.pdb
+D:\pessoal\C#\Dio.Bank\obj\Debug\net5.0\Dio.Bank.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Wagner\C#\dio\bin\Debug\net5.0\dio.exe
+D:\Wagner\C#\dio\bin\Debug\net5.0\dio.deps.json
+D:\Wagner\C#\dio\bin\Debug\net5.0\dio.runtimeconfig.json
+D:\Wagner\C#\dio\bin\Debug\net5.0\dio.runtimeconfig.dev.json
+D:\Wagner\C#\dio\bin\Debug\net5.0\dio.dll
+D:\Wagner\C#\dio\bin\Debug\net5.0\ref\dio.dll
+D:\Wagner\C#\dio\bin\Debug\net5.0\dio.pdb
+D:\Wagner\C#\dio\obj\Debug\net5.0\dio.csprojAssemblyReference.cache
+D:\Wagner\C#\dio\obj\Debug\net5.0\dio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wagner\C#\dio\obj\Debug\net5.0\dio.AssemblyInfoInputs.cache
+D:\Wagner\C#\dio\obj\Debug\net5.0\dio.AssemblyInfo.cs
+D:\Wagner\C#\dio\obj\Debug\net5.0\dio.csproj.CoreCompileInputs.cache
+D:\Wagner\C#\dio\obj\Debug\net5.0\dio.dll
+D:\Wagner\C#\dio\obj\Debug\net5.0\ref\dio.dll
+D:\Wagner\C#\dio\obj\Debug\net5.0\dio.pdb
+D:\Wagner\C#\dio\obj\Debug\net5.0\dio.genruntimeconfig.cache
