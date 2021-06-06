@@ -1,0 +1,16 @@
+D:\pessoal\C#\DesafioMat\piralandia\bin\Debug\net5.0\piralandia.exe
+D:\pessoal\C#\DesafioMat\piralandia\bin\Debug\net5.0\piralandia.deps.json
+D:\pessoal\C#\DesafioMat\piralandia\bin\Debug\net5.0\piralandia.runtimeconfig.json
+D:\pessoal\C#\DesafioMat\piralandia\bin\Debug\net5.0\piralandia.runtimeconfig.dev.json
+D:\pessoal\C#\DesafioMat\piralandia\bin\Debug\net5.0\piralandia.dll
+D:\pessoal\C#\DesafioMat\piralandia\bin\Debug\net5.0\ref\piralandia.dll
+D:\pessoal\C#\DesafioMat\piralandia\bin\Debug\net5.0\piralandia.pdb
+D:\pessoal\C#\DesafioMat\piralandia\obj\Debug\net5.0\piralandia.csprojAssemblyReference.cache
+D:\pessoal\C#\DesafioMat\piralandia\obj\Debug\net5.0\piralandia.GeneratedMSBuildEditorConfig.editorconfig
+D:\pessoal\C#\DesafioMat\piralandia\obj\Debug\net5.0\piralandia.AssemblyInfoInputs.cache
+D:\pessoal\C#\DesafioMat\piralandia\obj\Debug\net5.0\piralandia.AssemblyInfo.cs
+D:\pessoal\C#\DesafioMat\piralandia\obj\Debug\net5.0\piralandia.csproj.CoreCompileInputs.cache
+D:\pessoal\C#\DesafioMat\piralandia\obj\Debug\net5.0\piralandia.dll
+D:\pessoal\C#\DesafioMat\piralandia\obj\Debug\net5.0\ref\piralandia.dll
+D:\pessoal\C#\DesafioMat\piralandia\obj\Debug\net5.0\piralandia.pdb
+D:\pessoal\C#\DesafioMat\piralandia\obj\Debug\net5.0\piralandia.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\pessoal\C#\DesafioMat\TempoEvento\obj\Debug\net5.0\TempoEvento.csprojAssemblyReference.cache
+D:\pessoal\C#\DesafioMat\TempoEvento\obj\Debug\net5.0\TempoEvento.GeneratedMSBuildEditorConfig.editorconfig
+D:\pessoal\C#\DesafioMat\TempoEvento\obj\Debug\net5.0\TempoEvento.AssemblyInfoInputs.cache
+D:\pessoal\C#\DesafioMat\TempoEvento\obj\Debug\net5.0\TempoEvento.AssemblyInfo.cs
+D:\pessoal\C#\DesafioMat\TempoEvento\obj\Debug\net5.0\TempoEvento.csproj.CoreCompileInputs.cache
+D:\pessoal\C#\DesafioMat\TempoEvento\bin\Debug\net5.0\TempoEvento.exe
+D:\pessoal\C#\DesafioMat\TempoEvento\bin\Debug\net5.0\TempoEvento.deps.json
+D:\pessoal\C#\DesafioMat\TempoEvento\bin\Debug\net5.0\TempoEvento.runtimeconfig.json
+D:\pessoal\C#\DesafioMat\TempoEvento\bin\Debug\net5.0\TempoEvento.runtimeconfig.dev.json
+D:\pessoal\C#\DesafioMat\TempoEvento\bin\Debug\net5.0\TempoEvento.dll
+D:\pessoal\C#\DesafioMat\TempoEvento\bin\Debug\net5.0\ref\TempoEvento.dll
+D:\pessoal\C#\DesafioMat\TempoEvento\bin\Debug\net5.0\TempoEvento.pdb
+D:\pessoal\C#\DesafioMat\TempoEvento\obj\Debug\net5.0\TempoEvento.dll
+D:\pessoal\C#\DesafioMat\TempoEvento\obj\Debug\net5.0\ref\TempoEvento.dll
+D:\pessoal\C#\DesafioMat\TempoEvento\obj\Debug\net5.0\TempoEvento.pdb
+D:\pessoal\C#\DesafioMat\TempoEvento\obj\Debug\net5.0\TempoEvento.genruntimeconfig.cache

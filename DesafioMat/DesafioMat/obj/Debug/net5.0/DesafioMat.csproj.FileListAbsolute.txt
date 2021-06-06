@@ -1,0 +1,16 @@
+D:\pessoal\C#\DesafioMat\DesafioMat\bin\Debug\net5.0\DesafioMat.exe
+D:\pessoal\C#\DesafioMat\DesafioMat\bin\Debug\net5.0\DesafioMat.deps.json
+D:\pessoal\C#\DesafioMat\DesafioMat\bin\Debug\net5.0\DesafioMat.runtimeconfig.json
+D:\pessoal\C#\DesafioMat\DesafioMat\bin\Debug\net5.0\DesafioMat.runtimeconfig.dev.json
+D:\pessoal\C#\DesafioMat\DesafioMat\bin\Debug\net5.0\DesafioMat.dll
+D:\pessoal\C#\DesafioMat\DesafioMat\bin\Debug\net5.0\ref\DesafioMat.dll
+D:\pessoal\C#\DesafioMat\DesafioMat\bin\Debug\net5.0\DesafioMat.pdb
+D:\pessoal\C#\DesafioMat\DesafioMat\obj\Debug\net5.0\DesafioMat.csprojAssemblyReference.cache
+D:\pessoal\C#\DesafioMat\DesafioMat\obj\Debug\net5.0\DesafioMat.GeneratedMSBuildEditorConfig.editorconfig
+D:\pessoal\C#\DesafioMat\DesafioMat\obj\Debug\net5.0\DesafioMat.AssemblyInfoInputs.cache
+D:\pessoal\C#\DesafioMat\DesafioMat\obj\Debug\net5.0\DesafioMat.AssemblyInfo.cs
+D:\pessoal\C#\DesafioMat\DesafioMat\obj\Debug\net5.0\DesafioMat.csproj.CoreCompileInputs.cache
+D:\pessoal\C#\DesafioMat\DesafioMat\obj\Debug\net5.0\DesafioMat.dll
+D:\pessoal\C#\DesafioMat\DesafioMat\obj\Debug\net5.0\ref\DesafioMat.dll
+D:\pessoal\C#\DesafioMat\DesafioMat\obj\Debug\net5.0\DesafioMat.pdb
+D:\pessoal\C#\DesafioMat\DesafioMat\obj\Debug\net5.0\DesafioMat.genruntimeconfig.cache

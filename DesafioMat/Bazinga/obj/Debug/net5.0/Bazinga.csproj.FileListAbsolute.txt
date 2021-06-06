@@ -1,0 +1,16 @@
+D:\pessoal\C#\DesafioMat\Bazinga\bin\Debug\net5.0\Bazinga.exe
+D:\pessoal\C#\DesafioMat\Bazinga\bin\Debug\net5.0\Bazinga.deps.json
+D:\pessoal\C#\DesafioMat\Bazinga\bin\Debug\net5.0\Bazinga.runtimeconfig.json
+D:\pessoal\C#\DesafioMat\Bazinga\bin\Debug\net5.0\Bazinga.runtimeconfig.dev.json
+D:\pessoal\C#\DesafioMat\Bazinga\bin\Debug\net5.0\Bazinga.dll
+D:\pessoal\C#\DesafioMat\Bazinga\bin\Debug\net5.0\ref\Bazinga.dll
+D:\pessoal\C#\DesafioMat\Bazinga\bin\Debug\net5.0\Bazinga.pdb
+D:\pessoal\C#\DesafioMat\Bazinga\obj\Debug\net5.0\Bazinga.csprojAssemblyReference.cache
+D:\pessoal\C#\DesafioMat\Bazinga\obj\Debug\net5.0\Bazinga.GeneratedMSBuildEditorConfig.editorconfig
+D:\pessoal\C#\DesafioMat\Bazinga\obj\Debug\net5.0\Bazinga.AssemblyInfoInputs.cache
+D:\pessoal\C#\DesafioMat\Bazinga\obj\Debug\net5.0\Bazinga.AssemblyInfo.cs
+D:\pessoal\C#\DesafioMat\Bazinga\obj\Debug\net5.0\Bazinga.csproj.CoreCompileInputs.cache
+D:\pessoal\C#\DesafioMat\Bazinga\obj\Debug\net5.0\Bazinga.dll
+D:\pessoal\C#\DesafioMat\Bazinga\obj\Debug\net5.0\ref\Bazinga.dll
+D:\pessoal\C#\DesafioMat\Bazinga\obj\Debug\net5.0\Bazinga.pdb
+D:\pessoal\C#\DesafioMat\Bazinga\obj\Debug\net5.0\Bazinga.genruntimeconfig.cache
