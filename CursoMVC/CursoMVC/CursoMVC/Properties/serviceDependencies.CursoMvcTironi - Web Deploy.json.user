@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-06-08T09:29:25.9292272Z"
+    }
+  },
+  "parameters": {
+    "CursoMvcTironi.resourceGroupLocation": {
+      "Name": "CursoMvcTironi.resourceGroupLocation",
+      "Type": null,
+      "Value": "southcentralus"
+    },
+    "CursoMvcTironi.resourceGroupName": {
+      "Name": "CursoMvcTironi.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "CursoMVC20210607073500ResourceGroup"
+    },
+    "CursoMvcTironi.subscriptionId": {
+      "Name": "CursoMvcTironi.subscriptionId",
+      "Type": "subscription",
+      "Value": "26a44bfa-48b3-492a-b725-3c20e5b8e959"
+    },
+    "subscriptionId": {
+      "Name": "subscriptionId",
+      "Type": "subscription",
+      "Value": "26a44bfa-48b3-492a-b725-3c20e5b8e959"
+    },
+    "CursoMvcTironi.resourceName": {
+      "Name": "CursoMvcTironi.resourceName",
+      "Type": null,
+      "Value": "CursoMvcTironi"
+    }
+  }
+}

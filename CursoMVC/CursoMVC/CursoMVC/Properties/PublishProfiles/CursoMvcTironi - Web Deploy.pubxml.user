@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2yqWFmUEZESUNtxcdIvMXgAAAAACAAAAAAADZgAAwAAAABAAAAD2DAy/EcNkNAFlE4x/XY6WAAAAAASAAACgAAAAEAAAAI0IRJVVLNjuTlZWdz8ZDMyAAAAAnSgVuZywoKyeH2ECI131ywfHB4LZDuai8w543zPYbepBJVJwUk4A5T67URSDLxDhMegm3Ut7HMWWqFqFx3iEnTbrkznBJrQUPpCLM9h7PV2NmQG6oDWcZbvQLFBF17L1HqH/C9MJaDbmZCZ0/78msMQy2A4fYtYTU8gd/e5x8GwUAAAAi+AxFRrFTiqV+M/qwlfKcmg+fmU=</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <AzureDBConnectionStrings Include="Data Source=(localdb)\mssqllocaldb;Initial Catalog=Cursomvc;Integrated Security=True" />
+    <AzureDBConnectionStrings Include="Data Source=tcp:cursomvcdbiironi.database.windows.net,1433;Initial Catalog=CursoMVC_db;User Id=admin@cursomvcdbiironi;Password=admin" />
+  </ItemGroup>
+</Project>
