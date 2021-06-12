@@ -1,0 +1,16 @@
+D:\pessoal\C#\Pratica02\bin\Debug\net5.0\Pratica02.exe
+D:\pessoal\C#\Pratica02\bin\Debug\net5.0\Pratica02.deps.json
+D:\pessoal\C#\Pratica02\bin\Debug\net5.0\Pratica02.runtimeconfig.json
+D:\pessoal\C#\Pratica02\bin\Debug\net5.0\Pratica02.runtimeconfig.dev.json
+D:\pessoal\C#\Pratica02\bin\Debug\net5.0\Pratica02.dll
+D:\pessoal\C#\Pratica02\bin\Debug\net5.0\ref\Pratica02.dll
+D:\pessoal\C#\Pratica02\bin\Debug\net5.0\Pratica02.pdb
+D:\pessoal\C#\Pratica02\obj\Debug\net5.0\Pratica02.csprojAssemblyReference.cache
+D:\pessoal\C#\Pratica02\obj\Debug\net5.0\Pratica02.GeneratedMSBuildEditorConfig.editorconfig
+D:\pessoal\C#\Pratica02\obj\Debug\net5.0\Pratica02.AssemblyInfoInputs.cache
+D:\pessoal\C#\Pratica02\obj\Debug\net5.0\Pratica02.AssemblyInfo.cs
+D:\pessoal\C#\Pratica02\obj\Debug\net5.0\Pratica02.csproj.CoreCompileInputs.cache
+D:\pessoal\C#\Pratica02\obj\Debug\net5.0\Pratica02.dll
+D:\pessoal\C#\Pratica02\obj\Debug\net5.0\ref\Pratica02.dll
+D:\pessoal\C#\Pratica02\obj\Debug\net5.0\Pratica02.pdb
+D:\pessoal\C#\Pratica02\obj\Debug\net5.0\Pratica02.genruntimeconfig.cache

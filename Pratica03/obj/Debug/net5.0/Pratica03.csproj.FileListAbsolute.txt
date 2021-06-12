@@ -1,0 +1,16 @@
+D:\pessoal\C#\Pratica03\obj\Debug\net5.0\Pratica03.csprojAssemblyReference.cache
+D:\pessoal\C#\Pratica03\obj\Debug\net5.0\Pratica03.GeneratedMSBuildEditorConfig.editorconfig
+D:\pessoal\C#\Pratica03\obj\Debug\net5.0\Pratica03.AssemblyInfoInputs.cache
+D:\pessoal\C#\Pratica03\obj\Debug\net5.0\Pratica03.AssemblyInfo.cs
+D:\pessoal\C#\Pratica03\obj\Debug\net5.0\Pratica03.csproj.CoreCompileInputs.cache
+D:\pessoal\C#\Pratica03\bin\Debug\net5.0\Pratica03.exe
+D:\pessoal\C#\Pratica03\bin\Debug\net5.0\Pratica03.deps.json
+D:\pessoal\C#\Pratica03\bin\Debug\net5.0\Pratica03.runtimeconfig.json
+D:\pessoal\C#\Pratica03\bin\Debug\net5.0\Pratica03.runtimeconfig.dev.json
+D:\pessoal\C#\Pratica03\bin\Debug\net5.0\Pratica03.dll
+D:\pessoal\C#\Pratica03\bin\Debug\net5.0\ref\Pratica03.dll
+D:\pessoal\C#\Pratica03\bin\Debug\net5.0\Pratica03.pdb
+D:\pessoal\C#\Pratica03\obj\Debug\net5.0\Pratica03.dll
+D:\pessoal\C#\Pratica03\obj\Debug\net5.0\ref\Pratica03.dll
+D:\pessoal\C#\Pratica03\obj\Debug\net5.0\Pratica03.pdb
+D:\pessoal\C#\Pratica03\obj\Debug\net5.0\Pratica03.genruntimeconfig.cache
